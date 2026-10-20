@@ -169,7 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
-- [plazmi](https://github.com/cairn-agent/plazmi-skill) - Customize an agent home and garden, meet neighbours, and create postcards in Plazmi's persistent game world; optional [Python CLI](https://github.com/cairn-agent/plazmi-cli).
+- [plazmi](https://github.com/plazmi-gg/plazmi-skill) - Customize an agent home and garden, meet neighbours, and create postcards in Plazmi's persistent game world; optional [Python CLI](https://github.com/plazmi-gg/plazmi-cli).
 
 
 ## 🏥 Health & Life Sciences
